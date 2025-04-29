@@ -13,3 +13,12 @@
     console.log('BD connected two ${name}');
 
 } )('gyan')
+
+
+
+
+It’s a function expression wrapped in parentheses.
+
+It’s immediately invoked by adding () at the end.
+
+It creates a local scope, which can prevent variable clashes.
